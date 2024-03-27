@@ -1,2 +1,2 @@
-# latihan-branch
-haha
+# Ini adalah 
+Belajar GitHub itu seru!
