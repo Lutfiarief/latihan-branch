@@ -1,2 +1,2 @@
-# Ini adalah
-GitHub itu asyik lo
+
+Seru lo
