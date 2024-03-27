@@ -1,2 +1,2 @@
-# latihan-branch
-haha
+# Ini adalah
+GitHub itu asyik lo
