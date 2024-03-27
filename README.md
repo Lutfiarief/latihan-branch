@@ -1,2 +1,2 @@
-# Ini adalah 
-Belajar GitHub itu seru!
+
+Seru lo
